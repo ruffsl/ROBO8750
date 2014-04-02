@@ -30,10 +30,8 @@ auto-dist=false
 integration-range=0.5
 
 [robots]
-count=3
+count=1
 robot-dynamics-0=1
-robot-dynamics-1=1
-robot-dynamics-2=1
 
 [robot-0]
 position=@Variant(\0\0\0\x1a@\x1e\0\0\0\0\0\0@\x14\0\0\0\0\0\0)
@@ -41,17 +39,3 @@ sensing-range=1
 fill-sensing-range=false
 trajectory=@Invalid()
 orientation=0
-
-[robot-1]
-position=@Variant(\0\0\0\x1a@\x1e\0\0\0\0\0\0@\x14\0\0\0\0\0\0)
-sensing-range=1
-fill-sensing-range=false
-trajectory=@Invalid()
-orientation=1.8036964232098e-312
-
-[robot-2]
-position=@Variant(\0\0\0\x1a@\x1e\0\0\0\0\0\0@\x14\0\0\0\0\0\0)
-sensing-range=1
-fill-sensing-range=false
-trajectory=@Invalid()
-orientation=1.8036964232098e-312
