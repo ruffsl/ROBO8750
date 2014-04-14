@@ -1,0 +1,8 @@
+mean and variance of 90% :
+391.1 47.9223
+mean and variance of 95% :
+435.9 46.6987
+mean and variance of 98% :
+500.6 48.3671
+mean and variance of 100% :
+587.1 52.9831
