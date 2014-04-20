@@ -1,0 +1,207 @@
+\begin{tikzpicture}[yscale=-1]
+\definecolor{cffxfxf}{rgb}{1.00, 0.50, 0.50}
+\path[fill=cffxfxf, draw=cffxfxf] (0.00, 0.00) rectangle (0.80, 0.14);
+\definecolor{cffyuxf}{rgb}{1.00, 0.52, 0.50}
+\path[fill=cffyuxf, draw=cffyuxf] (0.00, 0.14) rectangle (0.80, 0.28);
+\definecolor{cffyzxf}{rgb}{1.00, 0.54, 0.50}
+\path[fill=cffyzxf, draw=cffyzxf] (0.00, 0.28) rectangle (0.80, 0.43);
+\definecolor{cffyexf}{rgb}{1.00, 0.56, 0.50}
+\path[fill=cffyexf, draw=cffyexf] (0.00, 0.43) rectangle (0.80, 0.57);
+\definecolor{cffztxf}{rgb}{1.00, 0.58, 0.50}
+\path[fill=cffztxf, draw=cffztxf] (0.00, 0.57) rectangle (0.80, 0.71);
+\definecolor{cffzyxf}{rgb}{1.00, 0.59, 0.50}
+\path[fill=cffzyxf, draw=cffzyxf] (0.00, 0.71) rectangle (0.80, 0.85);
+\definecolor{cffzcxf}{rgb}{1.00, 0.61, 0.50}
+\path[fill=cffzcxf, draw=cffzcxf] (0.00, 0.85) rectangle (0.80, 0.99);
+\definecolor{cffarxf}{rgb}{1.00, 0.63, 0.50}
+\path[fill=cffarxf, draw=cffarxf] (0.00, 0.99) rectangle (0.80, 1.14);
+\definecolor{cffawxf}{rgb}{1.00, 0.65, 0.50}
+\path[fill=cffawxf, draw=cffawxf] (0.00, 1.14) rectangle (0.80, 1.28);
+\definecolor{cffabxf}{rgb}{1.00, 0.67, 0.50}
+\path[fill=cffabxf, draw=cffabxf] (0.00, 1.28) rectangle (0.80, 1.42);
+\definecolor{cffbqxf}{rgb}{1.00, 0.69, 0.50}
+\path[fill=cffbqxf, draw=cffbqxf] (0.00, 1.42) rectangle (0.80, 1.56);
+\definecolor{cffbuxf}{rgb}{1.00, 0.71, 0.50}
+\path[fill=cffbuxf, draw=cffbuxf] (0.00, 1.56) rectangle (0.80, 1.70);
+\definecolor{cffbzxf}{rgb}{1.00, 0.73, 0.50}
+\path[fill=cffbzxf, draw=cffbzxf] (0.00, 1.70) rectangle (0.80, 1.85);
+\definecolor{cffbexf}{rgb}{1.00, 0.74, 0.50}
+\path[fill=cffbexf, draw=cffbexf] (0.00, 1.85) rectangle (0.80, 1.99);
+\definecolor{cffctxf}{rgb}{1.00, 0.76, 0.50}
+\path[fill=cffctxf, draw=cffctxf] (0.00, 1.99) rectangle (0.80, 2.13);
+\definecolor{cffcyxf}{rgb}{1.00, 0.78, 0.50}
+\path[fill=cffcyxf, draw=cffcyxf] (0.00, 2.13) rectangle (0.80, 2.27);
+\definecolor{cffcdxf}{rgb}{1.00, 0.80, 0.50}
+\path[fill=cffcdxf, draw=cffcdxf] (0.00, 2.27) rectangle (0.80, 2.41);
+\definecolor{cffdrxf}{rgb}{1.00, 0.82, 0.50}
+\path[fill=cffdrxf, draw=cffdrxf] (0.00, 2.41) rectangle (0.80, 2.56);
+\definecolor{cffdwxf}{rgb}{1.00, 0.84, 0.50}
+\path[fill=cffdwxf, draw=cffdwxf] (0.00, 2.56) rectangle (0.80, 2.70);
+\definecolor{cffdbxf}{rgb}{1.00, 0.86, 0.50}
+\path[fill=cffdbxf, draw=cffdbxf] (0.00, 2.70) rectangle (0.80, 2.84);
+\definecolor{cffeqxf}{rgb}{1.00, 0.88, 0.50}
+\path[fill=cffeqxf, draw=cffeqxf] (0.00, 2.84) rectangle (0.80, 2.98);
+\definecolor{cffevxf}{rgb}{1.00, 0.90, 0.50}
+\path[fill=cffevxf, draw=cffevxf] (0.00, 2.98) rectangle (0.80, 3.12);
+\definecolor{cffezxf}{rgb}{1.00, 0.91, 0.50}
+\path[fill=cffezxf, draw=cffezxf] (0.00, 3.12) rectangle (0.80, 3.27);
+\definecolor{cffeexf}{rgb}{1.00, 0.93, 0.50}
+\path[fill=cffeexf, draw=cffeexf] (0.00, 3.27) rectangle (0.80, 3.41);
+\definecolor{cffftxf}{rgb}{1.00, 0.95, 0.50}
+\path[fill=cffftxf, draw=cffftxf] (0.00, 3.41) rectangle (0.80, 3.55);
+\definecolor{cfffyxf}{rgb}{1.00, 0.97, 0.50}
+\path[fill=cfffyxf, draw=cfffyxf] (0.00, 3.55) rectangle (0.80, 3.69);
+\definecolor{cfffdxf}{rgb}{1.00, 0.99, 0.50}
+\path[fill=cfffdxf, draw=cfffdxf] (0.00, 3.69) rectangle (0.80, 3.83);
+\definecolor{cfdffxf}{rgb}{0.99, 1.00, 0.50}
+\path[fill=cfdffxf, draw=cfdffxf] (0.00, 3.83) rectangle (0.80, 3.98);
+\definecolor{cfzffxf}{rgb}{0.97, 1.00, 0.50}
+\path[fill=cfzffxf, draw=cfzffxf] (0.00, 3.98) rectangle (0.80, 4.12);
+\definecolor{cfuffxf}{rgb}{0.95, 1.00, 0.50}
+\path[fill=cfuffxf, draw=cfuffxf] (0.00, 4.12) rectangle (0.80, 4.26);
+\definecolor{cefffxf}{rgb}{0.94, 1.00, 0.50}
+\path[fill=cefffxf, draw=cefffxf] (0.00, 4.26) rectangle (0.80, 4.40);
+\definecolor{ceaffxf}{rgb}{0.92, 1.00, 0.50}
+\path[fill=ceaffxf, draw=ceaffxf] (0.00, 4.40) rectangle (0.80, 4.54);
+\definecolor{cevffxf}{rgb}{0.90, 1.00, 0.50}
+\path[fill=cevffxf, draw=cevffxf] (0.00, 4.54) rectangle (0.80, 4.69);
+\definecolor{cerffxf}{rgb}{0.88, 1.00, 0.50}
+\path[fill=cerffxf, draw=cerffxf] (0.00, 4.69) rectangle (0.80, 4.83);
+\definecolor{cdcffxf}{rgb}{0.86, 1.00, 0.50}
+\path[fill=cdcffxf, draw=cdcffxf] (0.00, 4.83) rectangle (0.80, 4.97);
+\definecolor{cdxffxf}{rgb}{0.84, 1.00, 0.50}
+\path[fill=cdxffxf, draw=cdxffxf] (0.00, 4.97) rectangle (0.80, 5.11);
+\definecolor{cdsffxf}{rgb}{0.82, 1.00, 0.50}
+\path[fill=cdsffxf, draw=cdsffxf] (0.00, 5.11) rectangle (0.80, 5.25);
+\definecolor{ccdffxf}{rgb}{0.80, 1.00, 0.50}
+\path[fill=ccdffxf, draw=ccdffxf] (0.00, 5.25) rectangle (0.80, 5.40);
+\definecolor{cczffxf}{rgb}{0.79, 1.00, 0.50}
+\path[fill=cczffxf, draw=cczffxf] (0.00, 5.40) rectangle (0.80, 5.54);
+\definecolor{ccuffxf}{rgb}{0.77, 1.00, 0.50}
+\path[fill=ccuffxf, draw=ccuffxf] (0.00, 5.54) rectangle (0.80, 5.68);
+\definecolor{cbfffxf}{rgb}{0.75, 1.00, 0.50}
+\path[fill=cbfffxf, draw=cbfffxf] (0.00, 5.68) rectangle (0.80, 5.82);
+\definecolor{cbaffxf}{rgb}{0.73, 1.00, 0.50}
+\path[fill=cbaffxf, draw=cbaffxf] (0.00, 5.82) rectangle (0.80, 5.96);
+\definecolor{cbvffxf}{rgb}{0.71, 1.00, 0.50}
+\path[fill=cbvffxf, draw=cbvffxf] (0.00, 5.96) rectangle (0.80, 6.11);
+\definecolor{cbqffxf}{rgb}{0.69, 1.00, 0.50}
+\path[fill=cbqffxf, draw=cbqffxf] (0.00, 6.11) rectangle (0.80, 6.25);
+\definecolor{cacffxf}{rgb}{0.67, 1.00, 0.50}
+\path[fill=cacffxf, draw=cacffxf] (0.00, 6.25) rectangle (0.80, 6.39);
+\definecolor{caxffxf}{rgb}{0.65, 1.00, 0.50}
+\path[fill=caxffxf, draw=caxffxf] (0.00, 6.39) rectangle (0.80, 6.53);
+\definecolor{casffxf}{rgb}{0.63, 1.00, 0.50}
+\path[fill=casffxf, draw=casffxf] (0.00, 6.53) rectangle (0.80, 6.67);
+\definecolor{czdffxf}{rgb}{0.62, 1.00, 0.50}
+\path[fill=czdffxf, draw=czdffxf] (0.00, 6.67) rectangle (0.80, 6.82);
+\definecolor{czyffxf}{rgb}{0.60, 1.00, 0.50}
+\path[fill=czyffxf, draw=czyffxf] (0.00, 6.82) rectangle (0.80, 6.96);
+\definecolor{czuffxf}{rgb}{0.58, 1.00, 0.50}
+\path[fill=czuffxf, draw=czuffxf] (0.00, 6.96) rectangle (0.80, 7.10);
+\definecolor{cyfffxf}{rgb}{0.56, 1.00, 0.50}
+\path[fill=cyfffxf, draw=cyfffxf] (0.00, 7.10) rectangle (0.80, 7.24);
+\definecolor{cyaffxf}{rgb}{0.54, 1.00, 0.50}
+\path[fill=cyaffxf, draw=cyaffxf] (0.00, 7.24) rectangle (0.80, 7.38);
+\definecolor{cyvffxf}{rgb}{0.52, 1.00, 0.50}
+\path[fill=cyvffxf, draw=cyvffxf] (0.00, 7.38) rectangle (0.80, 7.53);
+\definecolor{cyqffxf}{rgb}{0.50, 1.00, 0.50}
+\path[fill=cyqffxf, draw=cyqffxf] (0.00, 7.53) rectangle (0.80, 7.67);
+\definecolor{cxfffyu}{rgb}{0.50, 1.00, 0.52}
+\path[fill=cxfffyu, draw=cxfffyu] (0.00, 7.67) rectangle (0.80, 7.81);
+\definecolor{cxfffyy}{rgb}{0.50, 1.00, 0.53}
+\path[fill=cxfffyy, draw=cxfffyy] (0.00, 7.81) rectangle (0.80, 7.95);
+\definecolor{cxfffyd}{rgb}{0.50, 1.00, 0.55}
+\path[fill=cxfffyd, draw=cxfffyd] (0.00, 7.95) rectangle (0.80, 8.09);
+\definecolor{cxfffzs}{rgb}{0.50, 1.00, 0.57}
+\path[fill=cxfffzs, draw=cxfffzs] (0.00, 8.09) rectangle (0.80, 8.24);
+\definecolor{cxfffzx}{rgb}{0.50, 1.00, 0.59}
+\path[fill=cxfffzx, draw=cxfffzx] (0.00, 8.24) rectangle (0.80, 8.38);
+\definecolor{cxfffzc}{rgb}{0.50, 1.00, 0.61}
+\path[fill=cxfffzc, draw=cxfffzc] (0.00, 8.38) rectangle (0.80, 8.52);
+\definecolor{cxfffaq}{rgb}{0.50, 1.00, 0.63}
+\path[fill=cxfffaq, draw=cxfffaq] (0.00, 8.52) rectangle (0.80, 8.66);
+\definecolor{cxfffav}{rgb}{0.50, 1.00, 0.65}
+\path[fill=cxfffav, draw=cxfffav] (0.00, 8.66) rectangle (0.80, 8.80);
+\definecolor{cxfffaa}{rgb}{0.50, 1.00, 0.67}
+\path[fill=cxfffaa, draw=cxfffaa] (0.00, 8.80) rectangle (0.80, 8.95);
+\definecolor{cxfffaf}{rgb}{0.50, 1.00, 0.69}
+\path[fill=cxfffaf, draw=cxfffaf] (0.00, 8.95) rectangle (0.80, 9.09);
+\definecolor{cxfffbu}{rgb}{0.50, 1.00, 0.70}
+\path[fill=cxfffbu, draw=cxfffbu] (0.00, 9.09) rectangle (0.80, 9.23);
+\definecolor{cxfffbz}{rgb}{0.50, 1.00, 0.72}
+\path[fill=cxfffbz, draw=cxfffbz] (0.00, 9.23) rectangle (0.80, 9.37);
+\definecolor{cxfffbd}{rgb}{0.50, 1.00, 0.74}
+\path[fill=cxfffbd, draw=cxfffbd] (0.00, 9.37) rectangle (0.80, 9.51);
+\definecolor{cxfffcs}{rgb}{0.50, 1.00, 0.76}
+\path[fill=cxfffcs, draw=cxfffcs] (0.00, 9.51) rectangle (0.80, 9.66);
+\definecolor{cxfffcx}{rgb}{0.50, 1.00, 0.78}
+\path[fill=cxfffcx, draw=cxfffcx] (0.00, 9.66) rectangle (0.80, 9.80);
+\definecolor{cxfffcc}{rgb}{0.50, 1.00, 0.80}
+\path[fill=cxfffcc, draw=cxfffcc] (0.00, 9.80) rectangle (0.80, 9.94);
+\definecolor{cxfffdr}{rgb}{0.50, 1.00, 0.82}
+\path[fill=cxfffdr, draw=cxfffdr] (0.00, 9.94) rectangle (0.80, 10.08);
+\definecolor{cxfffdv}{rgb}{0.50, 1.00, 0.84}
+\path[fill=cxfffdv, draw=cxfffdv] (0.00, 10.08) rectangle (0.80, 10.22);
+\definecolor{cxfffda}{rgb}{0.50, 1.00, 0.85}
+\path[fill=cxfffda, draw=cxfffda] (0.00, 10.22) rectangle (0.80, 10.37);
+\definecolor{cxfffdf}{rgb}{0.50, 1.00, 0.87}
+\path[fill=cxfffdf, draw=cxfffdf] (0.00, 10.37) rectangle (0.80, 10.51);
+\definecolor{cxfffeu}{rgb}{0.50, 1.00, 0.89}
+\path[fill=cxfffeu, draw=cxfffeu] (0.00, 10.51) rectangle (0.80, 10.65);
+\definecolor{cxfffez}{rgb}{0.50, 1.00, 0.91}
+\path[fill=cxfffez, draw=cxfffez] (0.00, 10.65) rectangle (0.80, 10.79);
+\definecolor{cxfffed}{rgb}{0.50, 1.00, 0.93}
+\path[fill=cxfffed, draw=cxfffed] (0.00, 10.79) rectangle (0.80, 10.93);
+\definecolor{cxffffs}{rgb}{0.50, 1.00, 0.95}
+\path[fill=cxffffs, draw=cxffffs] (0.00, 10.93) rectangle (0.80, 11.08);
+\definecolor{cxffffx}{rgb}{0.50, 1.00, 0.97}
+\path[fill=cxffffx, draw=cxffffx] (0.00, 11.08) rectangle (0.80, 11.22);
+\definecolor{cxffffc}{rgb}{0.50, 1.00, 0.99}
+\path[fill=cxffffc, draw=cxffffc] (0.00, 11.22) rectangle (0.80, 11.36);
+\definecolor{cxffeff}{rgb}{0.50, 1.00, 1.00}
+\path[fill=cxffeff, draw=cxffeff] (0.00, 11.36) rectangle (0.80, 11.50);
+\definecolor{cxffzff}{rgb}{0.50, 0.98, 1.00}
+\path[fill=cxffzff, draw=cxffzff] (0.00, 11.50) rectangle (0.80, 11.64);
+\definecolor{cxffvff}{rgb}{0.50, 0.96, 1.00}
+\path[fill=cxffvff, draw=cxffvff] (0.00, 11.64) rectangle (0.80, 11.79);
+\definecolor{cxffqff}{rgb}{0.50, 0.94, 1.00}
+\path[fill=cxffqff, draw=cxffqff] (0.00, 11.79) rectangle (0.80, 11.93);
+\definecolor{cxfebff}{rgb}{0.50, 0.92, 1.00}
+\path[fill=cxfebff, draw=cxfebff] (0.00, 11.93) rectangle (0.80, 12.07);
+\definecolor{cxfewff}{rgb}{0.50, 0.90, 1.00}
+\path[fill=cxfewff, draw=cxfewff] (0.00, 12.07) rectangle (0.80, 12.21);
+\definecolor{cxferff}{rgb}{0.50, 0.88, 1.00}
+\path[fill=cxferff, draw=cxferff] (0.00, 12.21) rectangle (0.80, 12.35);
+\definecolor{cxfddff}{rgb}{0.50, 0.86, 1.00}
+\path[fill=cxfddff, draw=cxfddff] (0.00, 12.35) rectangle (0.80, 12.50);
+\definecolor{cxfdyff}{rgb}{0.50, 0.84, 1.00}
+\path[fill=cxfdyff, draw=cxfdyff] (0.00, 12.50) rectangle (0.80, 12.64);
+\definecolor{cxfdtff}{rgb}{0.50, 0.83, 1.00}
+\path[fill=cxfdtff, draw=cxfdtff] (0.00, 12.64) rectangle (0.80, 12.78);
+\definecolor{cxfceff}{rgb}{0.50, 0.81, 1.00}
+\path[fill=cxfceff, draw=cxfceff] (0.00, 12.78) rectangle (0.80, 12.92);
+\definecolor{cxfczff}{rgb}{0.50, 0.79, 1.00}
+\path[fill=cxfczff, draw=cxfczff] (0.00, 12.92) rectangle (0.80, 13.06);
+\definecolor{cxfcuff}{rgb}{0.50, 0.77, 1.00}
+\path[fill=cxfcuff, draw=cxfcuff] (0.00, 13.06) rectangle (0.80, 13.21);
+\definecolor{cxfcqff}{rgb}{0.50, 0.75, 1.00}
+\path[fill=cxfcqff, draw=cxfcqff] (0.00, 13.21) rectangle (0.80, 13.35);
+\definecolor{cxfbbff}{rgb}{0.50, 0.73, 1.00}
+\path[fill=cxfbbff, draw=cxfbbff] (0.00, 13.35) rectangle (0.80, 13.49);
+\definecolor{cxfbwff}{rgb}{0.50, 0.71, 1.00}
+\path[fill=cxfbwff, draw=cxfbwff] (0.00, 13.49) rectangle (0.80, 13.63);
+\definecolor{cxfbrff}{rgb}{0.50, 0.69, 1.00}
+\path[fill=cxfbrff, draw=cxfbrff] (0.00, 13.63) rectangle (0.80, 13.77);
+\definecolor{cxfacff}{rgb}{0.50, 0.68, 1.00}
+\path[fill=cxfacff, draw=cxfacff] (0.00, 13.77) rectangle (0.80, 13.92);
+\definecolor{cxfayff}{rgb}{0.50, 0.66, 1.00}
+\path[fill=cxfayff, draw=cxfayff] (0.00, 13.92) rectangle (0.80, 14.06);
+\definecolor{cxfatff}{rgb}{0.50, 0.64, 1.00}
+\path[fill=cxfatff, draw=cxfatff] (0.00, 14.06) rectangle (0.80, 14.20);
+
+\path[draw=black] (0.00, 0.00) rectangle (0.80, 14.20);
+
+\node[below] at (0.4, 0) {$\phi_\text{max}$};
+\node[above] at (0.4, 14.20) {$\phi_\text{min}$};
+\end{tikzpicture}
